@@ -20,13 +20,12 @@
     * A [**square waveform**](https://en.wikipedia.org/wiki/Square_wave) is a special type of pulse waveform in which the amplitude alternates at a steady frequency between fixed minimum and maximum values.
 
 ### On Your Own
-1. Ensure the synth of choice is **subtractive**.
-2. Initialize
+1. Initialize
     * Does your synth initialize with a preset?
     * Is there a reset button?
     * Does it load in an initialized state with just a plain waveform?
-3. What waveforms does your synth offer?
-4. How does your synth implement pulse width?
+2. What waveforms does your synth offer?
+3. How does your synth implement pulse width?
     * Pulse Width knob
         * Maybe be labelled something else like "Symmetry".
     * A set of preset pulse waveforms with different widths.
