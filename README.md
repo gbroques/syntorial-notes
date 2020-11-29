@@ -3,6 +3,8 @@
 * [Lesson 1: Your Basic Sound](#lesson-1-your-basic-sound)
 * [Lesson 2: Brightness](#lesson-2-brightness)
 * [Lesson 3: Volume, Press, and Release](#lesson-3-volume-press-and-release)
+* [Lesson 4: Expanding Your Basic Sound](#lesson-4-expanding-your-basic-sound)
+
 
 ## Lesson 1: Your Basic Sound
 ### Notes
@@ -73,3 +75,26 @@ Program a Bass, Lead, and Pad.
     * Soft Attack
     * Long Release
     * Low Cutoff
+
+## Lesson 4: Expanding Your Basic Sound
+### Notes
+* One of the most common ways to combine two oscillators is *doubling and transposing*.
+    * Set the *Mix knob*
+        * Determines the balance between Oscillator 1 and 2.
+    * Set the *Semi knob*.
+        * Moves Oscillator 2's pitch a **semi**-tone.
+        * Can't just set semi-knob to *any* value as it can create *dissonance*.
+        * Common Values:
+            * One octave (12 semi-tones)
+            * Two octaves (24 semi-tones)
+            * One-fifth (7 semi-tones)
+            * An octave and a fifth (19 semi-tones)
+
+### On Your Own
+Volume:
+1. Does you synth have a mix knob or individual volume knobs?
+
+Pitch:
+1. How do you change the pitch of each oscillator?
+
+Double and transpose three previous patches.
