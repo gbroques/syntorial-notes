@@ -29,3 +29,17 @@
     * Pulse Width knob
         * Maybe be labelled something else like "Symmetry".
     * A set of preset pulse waveforms with different widths.
+
+## Lesson 2: Brightness
+### Notes
+* The **low pass filter** determines the brightness of the sound.
+    * It is controlled by the **cutoff knob**.
+* Slightly reducing the cutoff is good for when you want a bright sound, but with less sizzle.
+* A common side-effect of a low-pass filter is a decrease in volume.
+    * To compensate, you can turn up the synth's *main volume*.
+    * Great for bass patches with a round and heavy sound.
+* Focus on the most obvious effect on the sound first.
+
+### On Your Own
+1. Try out the **Low Pass Filter**.
+2. Program a couple of bass patches.
