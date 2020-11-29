@@ -32,7 +32,7 @@
 
 ## Lesson 2: Brightness
 ### Notes
-* The **low pass filter** determines the brightness of the sound.
+* The [**low pass filter**](https://en.wikipedia.org/wiki/Low-pass_filter) determines the brightness of the sound.
     * It is controlled by the **cutoff knob**.
 * Slightly reducing the cutoff is good for when you want a bright sound, but with less sizzle.
 * A common side-effect of a low-pass filter is a decrease in volume.
