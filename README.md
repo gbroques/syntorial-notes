@@ -43,3 +43,31 @@
 ### On Your Own
 1. Try out the **Low Pass Filter**.
 2. Program a couple of bass patches.
+
+## Lesson 3: Volume, Press, and Release
+### Notes
+* Amp Envelope
+    * Modulates synth's volume over time.
+    * Modulate = Change
+    * Attack
+        * How long it takes for your sound to go from silence to full volume.
+    * Release
+        * Begins when you release a key.
+        * How long it takes for your sound to go from it's current sound to silence.
+
+### On Your Own
+Program a Bass, Lead, and Pad.
+
+1. Bass
+    * Low Cutoff
+    * Square Wave
+    * Zero Amp Attack
+    * Set Release to desired
+2. Lead
+    * Bright
+    * Zero Amp Attack
+    * Set Release to desired
+3. Pad
+    * Soft Attack
+    * Long Release
+    * Low Cutoff
