@@ -1,6 +1,8 @@
 # Syntorial Notes
 
 * [Lesson 1: Your Basic Sound](#lesson-1-your-basic-sound)
+* [Lesson 2: Brightness](#lesson-2-brightness)
+* [Lesson 3: Volume, Press, and Release](#lesson-3-volume-press-and-release)
 
 ## Lesson 1: Your Basic Sound
 ### Notes
