@@ -98,3 +98,25 @@ Pitch:
 1. How do you change the pitch of each oscillator?
 
 Double and transpose three previous patches.
+
+## Lesson 5: Brightness, Press, and Release
+### Notes
+* Filter Envelope
+    * Modulates filter's cutoff.
+    * Attack
+        * Gradually brightens sound.
+    * Release
+        * Starts when you release key.
+        * Determines how fast your sound drops from it's current brightness to the cutoff knob's brightness.
+* Cutoff Knob
+    * Determines the *darkest* your sound will ever get.
+* Envelope Amount Knob
+    * Determines the *brightest* your sound will ever get.
+    * Really determines this distance between the cutoff knob and brightest point.
+    * Thus, changes to the Cutoff Knob raise or lower the brightest point accordingly.
+* Process
+    1. Set Cutoff Knob to darkest point.
+    2. Set Envelope Amount Knob to brightest point.
+    3. Set the Attack.
+
+### On Your Own
