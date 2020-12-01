@@ -118,5 +118,7 @@ Double and transpose three previous patches.
     1. Set Cutoff Knob to darkest point.
     2. Set Envelope Amount Knob to brightest point.
     3. Set the Attack.
+* Amp release needs to be the same or greater than the filter release to hear it.
+    * Set the amp envelope first as it's easier to hear *volume* changes.
 
 ### On Your Own
