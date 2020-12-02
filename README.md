@@ -122,3 +122,9 @@ Double and transpose three previous patches.
     * Set the amp envelope first as it's easier to hear *volume* changes.
 
 ### On Your Own
+* Some synths may *not* give an envelope dedicated to the filter.
+    * Some synths provied a Mod (modulation) Envelope instead, and you can set the destination to the filter cutoff.
+* Design 3 pads
+    * Soft texture
+    * Low cutoff, and raise the release
+    * Use the filter envelope for movement
