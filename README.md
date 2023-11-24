@@ -4,7 +4,8 @@
 * [Lesson 2: Brightness](#lesson-2-brightness)
 * [Lesson 3: Volume, Press, and Release](#lesson-3-volume-press-and-release)
 * [Lesson 4: Expanding Your Basic Sound](#lesson-4-expanding-your-basic-sound)
-
+* [Lesson 5: Brightness, Press and Release](#lesson-5-brightness-press-and-release)
+* [Lesson 6: Echos](#lesson-5-echos)
 
 ## Lesson 1: Your Basic Sound
 ### Notes
@@ -128,3 +129,16 @@ Double and transpose three previous patches.
     * Soft texture
     * Low cutoff, and raise the release
     * Use the filter envelope for movement
+
+## Lesson 6: Echos
+
+* Delay
+    * Delay creates echos
+    * Delay mix knob determines balance between initial sound (dry) & echos (wet)
+    * 100% Dry / 0% Wet - No echos
+    * 50% Dry / 50% Wet - Maximum echos
+    * Reduces volume
+    * Can increase main volume to make up for the decrease
+    * Two purposes:
+        1. Rythmic patterns
+        2. Create space (like reverb to make sound bigger)
